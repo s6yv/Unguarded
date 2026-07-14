@@ -42,10 +42,3 @@ This repository contains the compiled game rather than the Unity source project.
 - `MonoBleedingEdge/` - Unity runtime files
 - `UnityPlayer.dll` - Unity player library
 
-## Project status
-
-Unguarded is a completed learning project and is not under active development.
-
-## Author
-
-Adam Sikorski
